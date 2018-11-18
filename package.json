@@ -1,0 +1,19 @@
+{
+  "name": "twitch-chat-reader",
+  "version": "1.0.0",
+  "description": "read twitch chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noir-neo/twitch-chat-reader.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noir-neo/twitch-chat-reader/issues"
+  },
+  "homepage": "https://github.com/noir-neo/twitch-chat-reader#readme"
+}

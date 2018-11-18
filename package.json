@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/noir-neo/twitch-chat-reader/issues"
   },
-  "homepage": "https://github.com/noir-neo/twitch-chat-reader#readme"
+  "homepage": "https://github.com/noir-neo/twitch-chat-reader#readme",
+  "dependencies": {
+    "tmi.js": "^1.2.1"
+  }
 }

@@ -20,7 +20,8 @@ client.on('disconnected', onDisconnectedHandler)
 client.connect()
 
 function onMessageHandler (target, context, msg, self) {
-  // if (self) { return } // Ignore messages from the bot
+  if (self) { return } // Ignore messages from the bot
+
   console.log(`${context.username}: ${msg}`)
   say (`${context.username}: ${msg}`)
 }
